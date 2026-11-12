@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pearl-milk-tea",
+    "name": "珍珠奶茶／拿鐵",
+    "description": "加入珍珠(波霸)的奶茶或紅茶拿鐵,台灣手搖飲的經典款式。"
+  },
+  {
+    "id": "milk-latte",
+    "name": "鮮奶茶／拿鐵／歐蕾",
+    "description": "茶與牛奶調和,奶香濃、口感圓潤。"
+  },
+  {
+    "id": "black-tea",
+    "name": "經典紅茶",
+    "description": "以紅茶為主角,可純喝也常搭配水果或冰淇淋。"
+  },
+  {
+    "id": "green-tea",
+    "name": "綠茶／柳橙綠",
+    "description": "清爽的綠茶底,常見搭配柳橙、梅子等果味。"
+  },
+  {
+    "id": "oolong",
+    "name": "烏龍／青茶",
+    "description": "半發酵茶底,有花果或焙火香氣,也有拿鐵變化版。"
+  },
+  {
+    "id": "yakult-style",
+    "name": "多多／優多類",
+    "description": "加入發酵乳風味的酸甜茶飲,常與綠茶或紅茶搭配。"
+  },
+  {
+    "id": "fruit-tea",
+    "name": "水果茶／特調",
+    "description": "以水果或果粒為重點的茶飲與特調。"
+  }
+]

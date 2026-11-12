@@ -1,0 +1,310 @@
+[
+  {
+    "id": "ching-shin",
+    "name": "清心福全",
+    "founded": 1987,
+    "origin": "台南",
+    "story": "1987 年,創辦人趙福全在台南從一間不到 3 坪的小店起家,店名原本是「清心冷飲站」,後來加入自己的名字,成為「清心福全」。他家裡原本經營中藥舖,他把中藥配比的概念帶進茶飲研發,並在 1988 年推出被稱為台灣首創的烏龍綠茶。招牌的優多綠茶則使用自家研發的「清心優多」。",
+    "logo": {
+      "file": "logo-ching-shin.png",
+      "alt": "清心福全 logo",
+      "source": "https://www.chingshin.tw/"
+    },
+    "recommended": [
+      {
+        "name": "優多綠茶",
+        "type": "yakult-style"
+      },
+      {
+        "name": "紅心芭樂優多",
+        "type": "yakult-style"
+      },
+      {
+        "name": "烏龍綠茶",
+        "type": "oolong"
+      },
+      {
+        "name": "蜂蜜烏龍",
+        "type": "oolong"
+      },
+      {
+        "name": "珍珠奶茶",
+        "type": "pearl-milk-tea"
+      },
+      {
+        "name": "珍珠蜂蜜鮮奶普洱",
+        "type": "milk-latte"
+      },
+      {
+        "name": "冰淇淋紅茶",
+        "type": "black-tea"
+      },
+      {
+        "name": "蜜桃凍紅茶",
+        "type": "black-tea"
+      },
+      {
+        "name": "柳橙綠",
+        "type": "green-tea"
+      }
+    ],
+    "sources": [
+      {
+        "title": "食力 foodnext",
+        "url": "https://www.foodnext.net/column/columnist/paper/6611076561"
+      },
+      {
+        "title": "Marie Claire 2026 清心福全必喝榜",
+        "url": "https://www.marieclaire.com.tw/lifestyle/taste/95162"
+      },
+      {
+        "title": "三立新聞(清心福全品牌故事)",
+        "url": "https://www.mirrormedia.mg/external/setn_1924444"
+      }
+    ]
+  },
+  {
+    "id": "fifty-lan",
+    "name": "50嵐",
+    "founded": 1994,
+    "origin": "台南",
+    "story": "50嵐於 1994 年在台南路邊以小攤子創立。品牌表示一路堅持只賣茶飲,用精選茶葉搭配好的原料,新鮮現調每一杯。經典的波霸紅茶拿鐵,近年因藝人 Rosé 翻牌而再度爆紅。",
+    "logo": {
+      "file": "logo-fifty-lan.svg",
+      "alt": "50嵐 logo(示意圖)",
+      "source": "自製示意圖,非官方 logo"
+    },
+    "recommended": [
+      {
+        "name": "波霸紅茶拿鐵",
+        "type": "pearl-milk-tea"
+      },
+      {
+        "name": "1號",
+        "type": "oolong"
+      },
+      {
+        "name": "四季春",
+        "type": "oolong"
+      },
+      {
+        "name": "烏龍拿鐵",
+        "type": "oolong"
+      },
+      {
+        "name": "8冰綠",
+        "type": "green-tea"
+      },
+      {
+        "name": "梅綠",
+        "type": "green-tea"
+      },
+      {
+        "name": "多多綠",
+        "type": "yakult-style"
+      },
+      {
+        "name": "蜂蜜布丁紅茶拿鐵",
+        "type": "milk-latte"
+      },
+      {
+        "name": "阿華田拿鐵",
+        "type": "milk-latte"
+      }
+    ],
+    "sources": [
+      {
+        "title": "NOWnews 今日新聞",
+        "url": "https://www.nownews.com/news/6752821"
+      },
+      {
+        "title": "TVBS 食尚玩家(網友與員工推薦)",
+        "url": "https://supertaste.tvbs.com.tw/food/351434"
+      }
+    ]
+  },
+  {
+    "id": "kebuke",
+    "name": "可不可熟成紅茶",
+    "founded": 2008,
+    "origin": null,
+    "story": "可不可熟成紅茶由劉紹威於 2008 年創立,初衷是提供好茶、經營社區型飲料店。2014 年底,有設計背景的好友張朝修表達加盟意願,兩人一起為品牌改造。2016 年 9 月,品牌在台中向上路的起家厝重新開張,2017 年 5 月開出第一間加盟店。",
+    "logo": {
+      "file": "logo-kebuke.png",
+      "alt": "可不可熟成紅茶 logo",
+      "source": "https://kebuke.com/"
+    },
+    "recommended": [
+      {
+        "name": "熟成紅茶",
+        "type": "black-tea"
+      },
+      {
+        "name": "雪藏紅茶",
+        "type": "black-tea"
+      },
+      {
+        "name": "白玉歐蕾",
+        "type": "milk-latte"
+      },
+      {
+        "name": "半熟烏龍厚乳",
+        "type": "milk-latte"
+      },
+      {
+        "name": "胭脂多多",
+        "type": "yakult-style"
+      },
+      {
+        "name": "金蜜檸檬",
+        "type": "fruit-tea"
+      },
+      {
+        "name": "紫蘇馥莓熟成",
+        "type": "fruit-tea"
+      }
+    ],
+    "sources": [
+      {
+        "title": "食力 foodnext",
+        "url": "https://www.foodnext.net/news/industry/paper/5357656392"
+      },
+      {
+        "title": "Marie Claire 2026 可不可推薦",
+        "url": "https://www.marieclaire.com.tw/lifestyle/taste/94447"
+      },
+      {
+        "title": "遠見 GVM 可不可品牌故事",
+        "url": "https://www.gvm.com.tw/article/66985"
+      }
+    ]
+  },
+  {
+    "id": "milksha",
+    "name": "迷客夏",
+    "founded": 2007,
+    "origin": "台南佳里",
+    "story": "迷客夏起源於台南,以鮮奶飲品為主打。在鮮奶茶飲少見、價格又比使用奶精的茶飲高出約 40% 的年代,他們用木質與綠灰色系的門市外觀吸引客人,也自行開發不含色素與防腐劑的白玉珍珠,並強調從牧場到杯子(farm to cup)的理念。",
+    "logo": {
+      "file": "logo-milksha.svg",
+      "alt": "迷客夏 logo(示意圖)",
+      "source": "自製示意圖,非官方 logo"
+    },
+    "recommended": [
+      {
+        "name": "珍珠大正紅茶拿鐵",
+        "type": "pearl-milk-tea"
+      },
+      {
+        "name": "娜杯紅茶拿鐵",
+        "type": "milk-latte"
+      },
+      {
+        "name": "手炒黑糖鮮奶",
+        "type": "milk-latte"
+      },
+      {
+        "name": "芋頭鮮奶",
+        "type": "milk-latte"
+      },
+      {
+        "name": "英倫伯爵紅茶",
+        "type": "black-tea"
+      },
+      {
+        "name": "柳丁綠茶",
+        "type": "green-tea"
+      },
+      {
+        "name": "蜜桃烏龍",
+        "type": "oolong"
+      },
+      {
+        "name": "琥珀高峰烏龍",
+        "type": "oolong"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia: Milksha",
+        "url": "https://en.wikipedia.org/wiki/Milksha"
+      },
+      {
+        "title": "Bella 2025 迷客夏熱門飲品",
+        "url": "https://www.bella.tw/articles/travel&foodies/53791/milksha-drink-fruit-tea"
+      },
+      {
+        "title": "Taiwan NGO 迷客夏專文",
+        "url": "https://www.taiwanngo.tw/Post/82893"
+      }
+    ]
+  },
+  {
+    "id": "coco",
+    "name": "CoCo都可",
+    "founded": 1997,
+    "origin": "淡水",
+    "story": "CoCo都可由 Tommy Hung 於 1997 年在淡水創立,他至今仍擔任董事長。品牌後來拓展到亞洲以外的多個國家與地區,並獲得 World Branding Awards 的肯定。",
+    "logo": {
+      "file": "logo-coco.png",
+      "alt": "CoCo都可 logo",
+      "source": "https://www.coco-tea.com/"
+    },
+    "recommended": [
+      {
+        "name": "珍珠奶茶",
+        "type": "pearl-milk-tea"
+      },
+      {
+        "name": "百香雙響炮",
+        "type": "fruit-tea"
+      },
+      {
+        "name": "鮮橙綠茶",
+        "type": "green-tea"
+      }
+    ],
+    "sources": [
+      {
+        "title": "TVBS 食尚玩家",
+        "url": "https://supertaste.tvbs.com.tw/food/347016"
+      },
+      {
+        "title": "Wikipedia: CoCo Fresh Tea & Juice",
+        "url": "https://en.wikipedia.org/wiki/CoCo_Fresh_Tea_%26_Juice"
+      }
+    ]
+  },
+  {
+    "id": "macu-tea",
+    "name": "麻古茶坊",
+    "founded": 2008,
+    "origin": "高雄",
+    "story": "麻古茶坊 2008 年從高雄起家,主打每杯現榨、現切又現沖。以楊枝甘露,以及使用新鮮果粒的芝芝系列聞名;楊枝甘露與芝芝葡萄果粒在 2019 年紅遍全台。",
+    "logo": {
+      "file": "logo-macu-tea.svg",
+      "alt": "麻古茶坊 logo",
+      "source": "https://commons.wikimedia.org/wiki/File:MACU_logo.svg"
+    },
+    "recommended": [
+      {
+        "name": "楊枝甘露",
+        "type": "fruit-tea"
+      },
+      {
+        "name": "芝芝葡萄果粒",
+        "type": "fruit-tea"
+      }
+    ],
+    "sources": [
+      {
+        "title": "TVBS 食尚玩家",
+        "url": "https://supertaste.tvbs.com.tw/food/351494"
+      },
+      {
+        "title": "NOWnews 麻古茶坊報導",
+        "url": "https://www.nownews.com/news/6787662"
+      }
+    ]
+  }
+]

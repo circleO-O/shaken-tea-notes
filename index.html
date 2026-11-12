@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="認識台灣各家手搖飲料店,並整理茶底、配料與點餐小知識。">
+  <title>首頁 | 手搖飲筆記</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <nav class="site-nav" aria-label="主選單">
+    <ul>
+      <li><a href="index.html" aria-current="page">首頁</a></li>
+      <li><a href="pages/shops.html">飲料店</a></li>
+      <li><a href="pages/tea-bases.html">茶底</a></li>
+      <li><a href="pages/toppings.html">配料</a></li>
+      <li><a href="pages/ordering-guide.html">點餐指南</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <h1>手搖飲筆記</h1>
+    <p class="lead">認識台灣各家手搖飲料店,並整理茶底、配料與點餐小知識。</p>
+
+    <section class="menu">
+      <h2>今天想喝什麼?</h2>
+      <p>一格一款飲品,點店名可前往該店頁面;可依類型篩選。</p>
+      <div class="filter-bar" data-menu-filter></div>
+      <div class="card-grid" data-menu data-base="data/">載入中…</div>
+    </section>
+
+    <section>
+      <h2>更多內容</h2>
+      <div class="card-grid">
+        <a class="card" href="pages/shops.html">
+          <h3>飲料店</h3>
+          <p>點進各家店,查看推薦飲品。</p>
+        </a>
+        <a class="card" href="pages/tea-bases.html">
+          <h3>茶底</h3>
+          <p>紅茶、綠茶、烏龍茶有什麼不同?</p>
+        </a>
+        <a class="card" href="pages/toppings.html">
+          <h3>配料</h3>
+          <p>珍珠、仙草、椰果怎麼選?</p>
+        </a>
+        <a class="card" href="pages/ordering-guide.html">
+          <h3>點餐指南</h3>
+          <p>甜度、冰塊與客製化對照表。</p>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>手搖飲筆記</p>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
