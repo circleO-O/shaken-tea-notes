@@ -4,8 +4,8 @@
 
 本專案依照 [CLAUDE.md](CLAUDE.md) 的規則建立,目的是讓 AI 讀完規則後,能用同一套方式持續新增店家與頁面。
 
-- GitHub Repository:(待補)
-- 網頁連結:(待補)
+- GitHub Repository:https://github.com/circleO-O/shaken-tea-notes
+- 網頁連結:https://circleo-o.github.io/shaken-tea-notes/
 
 ## 頁面清單
 
@@ -35,7 +35,8 @@
 logo:
 
 - 飲料店列表以各品牌 logo 作為圖像,僅用於識別品牌。
-- 清心福全、可不可、CoCo都可、麻古茶坊已有 logo;50嵐與迷客夏為自製的 SVG 示意圖,非官方 logo。
+- 清心福全、可不可、CoCo都可、麻古茶坊使用官方網站或 Wikimedia Commons 的 logo;50嵐與迷客夏為自製的 SVG 示意圖,非官方 logo。
+- 配料的 Q 版插圖為自製 SVG。
 
 ## 專案結構
 
@@ -46,7 +47,7 @@ shaken-tea-notes/
 ├── index.html
 ├── pages/             # shops、shop、tea-bases、toppings、ordering-guide
 ├── data/              # shops.json、drink-types.json
-├── assets/            # css/style.css、js/main.js、img/(店家 logo)
+├── assets/            # css/style.css、js/main.js、img/(店家 logo、配料插圖)
 └── templates/page.html
 ```
 

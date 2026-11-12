@@ -42,7 +42,7 @@ shaken-tea-notes/
 ├── assets/
 │   ├── css/style.css    # 唯一樣式表
 │   ├── js/main.js       # 唯一腳本(渲染飲料店列表、店家頁與首頁飲品格)
-│   └── img/             # 圖片(店家 logo:logo-<shop-id>.png|svg)
+│   └── img/             # 圖片:店家 logo(logo-<shop-id>.png|svg)、配料插圖(topping-<name>.svg)
 └── templates/
     └── page.html        # 新頁面的樣板,新增頁面時複製此檔
 ```
@@ -59,7 +59,7 @@ shaken-tea-notes/
 ## 4. 命名規則
 
 - 檔名:小寫英文、單字以 `-` 連接(`ordering-guide.html`),不使用中文、空白或大寫。
-- 圖片:`<主題>-<描述>.webp|jpg|png`,單張 < 300 KB。
+- 圖片:`<類別>-<名稱>.<副檔名>`,類別為 `logo`(店家 logo)或 `topping`(配料插圖),單檔 < 300 KB。
 - CSS class:kebab-case,以用途命名(`.card`、`.tag`),不用無意義名稱。
 - `shops.json` 的 `id`:品牌英文名或拼音,小寫 kebab-case,全檔唯一(例如 `coco`、`macu-tea`)。
 
@@ -198,6 +198,7 @@ shaken-tea-notes/
 ## 9. 本機預覽與部署
 
 - 預覽:先 `cd shaken-tea-notes`(必須在專案根目錄),再執行 `python3 -m http.server 8000`,開啟 `http://localhost:8000`。不可直接雙擊開啟 HTML,否則 `fetch` 讀取 JSON 會失敗。
+- Repository:`https://github.com/circleO-O/shaken-tea-notes`。
 - 部署:push 到 `main`,GitHub Pages 自動發佈(Settings → Pages → Deploy from branch → `main` / root)。
 
 ## 10. Git 規範
@@ -206,4 +207,3 @@ shaken-tea-notes/
 - 一個 commit 只做一件事;新增資料與修改樣式分開提交。
 - 不要提交 `.DS_Store`、暫存檔、未壓縮的大型圖片。
 - 未經使用者要求,不要自行 commit 或 push。
-
